@@ -1,0 +1,15 @@
+.post-img{
+height: 350px;
+overflow: hidden;
+}
+.post-img img{
+    width: 100%;
+}
+.blog-post-content{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+.row{
+    display: flex;
+    flex-direction: column;
+}
